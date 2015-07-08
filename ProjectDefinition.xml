@@ -9,7 +9,7 @@
   </login>
 
   <project-path>/var/lib/jenkins/jobs/Lingoport.LiteDemo/workspace/</project-path>
-  <project-name>Demo Project</project-name>
+  <project-name>Lingoport.LiteDemo</project-name>
 
   <report-path>/home/jenkins/Lingoport_Data/Lingoport.LiteDemo/GlobalyzerScans/</report-path>
   <report-type>ScanDetailedXML</report-type>
