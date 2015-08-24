@@ -1,8 +1,7 @@
 # LiteDemo
 A very simple project to show off Globalyzer Lite TOGETHER with LRM
-On the Dashboard, it will show up as Lingoport.LRMandLite
-Using this kind of script:
--------------------------------------------------------------------------------
+On the Dashboard, it will show up as <code>Lingoport.LRMandLite</code>, using this kind of script:
+
 <pre>
 <code>
 # Get the code using LRM's config_vcs.properties (so files can be pushed back)
