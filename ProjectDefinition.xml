@@ -8,10 +8,10 @@
     <server>http://www.globalyzer.com/gzserver</server>
   </login>
 
-  <project-path>/var/lib/jenkins/jobs/Lingoport.Lite/workspace</project-path>
+  <project-path>/var/lib/jenkins/jobs/Lingoport.LRMandLite/workspace</project-path>
   <project-name>Lingoport.LRMandLite</project-name>
 
-  <report-path>/home/jenkins/Lingoport_Data/Dashboard/Projects/Lingoport.Lite/GlobalyzerScans</report-path>
+  <report-path>~jenkins/Lingoport_Data/Dashboard/Projects/Lingoport.LRMandLite/GlobalyzerScans</report-path>
   <report-type>ScanDetailedXML</report-type>
 
   <scans>
