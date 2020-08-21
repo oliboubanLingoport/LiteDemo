@@ -1,5 +1,5 @@
 # LiteDemo
-A very simple project to show off Globalyzer Lite TOGETHER with LRM
+A very simple project to show off <b>Globalyzer Lite</b> and with <b>LRM</b>
 On the Dashboard, it will show up as <code>Lingoport.LRMandLite</code>, using this kind of script:
 
 <pre>
